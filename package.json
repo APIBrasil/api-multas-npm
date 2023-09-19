@@ -1,6 +1,6 @@
 {
 	"name": "api-multas",
-	"version": "0.0.1",
+	"version": "0.0.5",
 	"description": "A ideia desse repositório é obter dados de Multas de todos os Detrans, através de Web Scrap e retornar os dados das multas em JSON",
 	"homepage": "https://apibrasil.com.br",
 	"author": "APIBrasil <contato@apigratis.com.br> (https://apigratis.com.br)",
