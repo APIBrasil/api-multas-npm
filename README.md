@@ -5,7 +5,6 @@ A ideia desse repositório é obter dados de Multas de todos os Detrans, atravé
 Ainda não suportamos todos os estados, em breve  iremos adicionar mais estados, se quiser sugerir um estado, abra uma PR
 
 # Servidor Back-end
-
 Você irá precisar subir um servidor backend para consumir esse pacote
 
 https://github.com/APIBrasil/api-multas
