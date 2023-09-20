@@ -152,6 +152,14 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
+api-multas@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/api-multas/-/api-multas-0.0.5.tgz#3596aadd9c13c30dff5538715d26bd061c8e63ed"
+  integrity sha512-wRYwFhFriERZd9YnIqhwWdjufy4mncB+H8DHet7lHHMRGudp2iaQJo/p6yFMMNskCXm/jACvW/bKtDdPuQn5eA==
+  dependencies:
+    axios "^1.4.0"
+    link-module-alias "^1.2.0"
+
 asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"

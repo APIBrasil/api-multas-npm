@@ -1,6 +1,6 @@
 {
 	"name": "api-multas",
-	"version": "0.0.5",
+	"version": "0.0.9",
 	"description": "A ideia desse repositório é obter dados de Multas de todos os Detrans, através de Web Scrap e retornar os dados das multas em JSON",
 	"homepage": "https://apibrasil.com.br",
 	"author": "APIBrasil <contato@apigratis.com.br> (https://apigratis.com.br)",
@@ -28,6 +28,7 @@
 		"url": "https://issuehunt.io/r/jhowbhz"
 	},
 	"bugs": {
+		"email": "contato@apibrasil.com.br",
 		"url": "https://github.com/APIBrasil/api-multas-npm/issues"
 	},
 	"repository": {
@@ -46,7 +47,7 @@
 		"typescript": "^4.9.3"
 	},
 	"publishConfig": {
-		"@jhowbhz:registry": "https://npm.pkg.github.com"
+		"@APIBrasil:registry": "https://npm.pkg.github.com"
 	},
 	"license": "MIT"
 }
